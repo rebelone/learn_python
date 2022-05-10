@@ -1,2 +1,2 @@
 # learn_python_repo
-HI I'm Daan and im here to learn Python!
+Hi I'm Daan and here to learn Python!
